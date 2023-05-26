@@ -1,0 +1,23 @@
+html {
+
+    max-width: 1024px;
+    max-height: 768px;
+}
+body {
+    background-color: #e9e5df;
+    display: block;
+}
+
+.header,
+.btn,
+.card,
+.btn {
+    background-color: green !important;
+    color: #fff !important;
+}
+
+.icon {
+    width: 10%;
+    margin: auto, auto
+}
+
